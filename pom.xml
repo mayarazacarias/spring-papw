@@ -24,6 +24,13 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<lombok.version>1.18.6</lombok.version>
+		
+		<sonar.projectKey>mayarazacarias_spring-papw</sonar.projectKey>
+  		<sonar.organization>mayarazacarias</sonar.organization>
+ 		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>b9161f35e881de5d19ef7bed32da1b9f0ee0a906</sonar.login>
+		
+		
 	</properties>
 
 	<dependencies>
